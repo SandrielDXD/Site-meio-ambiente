@@ -63,6 +63,7 @@ article h2 {
 article p {
     color: #666;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 article img {
